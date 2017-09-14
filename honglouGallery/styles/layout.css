@@ -1,0 +1,39 @@
+body{
+    font-family: "Arial",sans-serif;
+    color: #333;
+    background-color: #DB70DB;
+    margin: 1em 20%;
+}
+
+h1{
+    color: #333;
+    background-color: transparent;
+}
+a{
+    color: #cc6600;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul{
+    padding: 0;
+}
+
+li{
+    float: left;
+    padding: 1em;
+    list-style: none;
+}
+#imagegallery{
+    list-style: none;
+}
+
+#imagegallery li{
+    display:inline;
+}
+
+p{
+    color: #cc6600;
+    font-size: 25px;
+}
